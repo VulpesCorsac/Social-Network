@@ -1,0 +1,19 @@
+I am dump file about swNodeManager object
+
+adress = 3418104
+size_  = 6
+Arcs is:
+
+0 7 0 0 22 33 
+7 0 15 55 34 35 
+0 15 0 50 0 0 
+0 55 50 0 0 0 
+22 34 0 0 0 0 
+33 35 0 0 0 0 
+
+objs [0] name = ElviS mem =  10 act =  80 red = -1.000000 green = -1.000000 blue = -1.000000
+objs [1] name = ¬≈– ¿ mem =   0 act =  60 red = -1.000000 green = -1.000000 blue = -1.000000
+objs [2] name =  ”Õ»Õ mem =  60 act =  30 red = -1.000000 green = -1.000000 blue = -1.000000
+objs [3] name = SeRkin mem =  61 act =  70 red = 1.000000 green = 0.000000 blue = 0.000000
+objs [4] name = √¿–»√ mem =  62 act =  90 red = -1.000000 green = -1.000000 blue = -1.000000
+objs [5] name = “»“Ó¬ mem =  63 act =  60 red = 0.000000 green = 0.000000 blue = 1.000000

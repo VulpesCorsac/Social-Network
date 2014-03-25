@@ -1,0 +1,30 @@
+# Project: SocialNetStart
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe -D__DEBUG__
+CC   = gcc.exe -D__DEBUG__
+WINDRES = windres.exe
+RES  = 
+OBJ  = ../../ProjectFiles/SocNet.o $(RES)
+LINKOBJ  = ../../ProjectFiles/SocNet.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" -lgdi32 -lopengl32 -lglu32  -g3 
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = SocialNetStart.exe
+CXXFLAGS = $(CXXINCS)   -g3
+CFLAGS = $(INCS)   -g3
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before SocialNetStart.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "SocialNetStart.exe" $(LIBS)
+
+../../ProjectFiles/SocNet.o: ../../ProjectFiles/SocNet.cpp   ../../ProjectFiles/../Resources/swResources.h   ../../ProjectFiles/../Resources/../swGlass1.09/swGlass.h   C:/Dev-Cpp/include/windows.h C:/Dev-Cpp/include/time.h   C:/Dev-Cpp/include/c++/3.4.2/iostream C:/Dev-Cpp/include/c++/3.4.2/list   C:/Dev-Cpp/include/c++/3.4.2/vector   ../../ProjectFiles/../Resources/../swGlass1.09/swPixel.h   ../../ProjectFiles/../Resources/../swGlass1.09/swMessage.h   ../../ProjectFiles/../Resources/../swGlass1.09/swMouse.h   ../../ProjectFiles/../Resources/../swGlass1.09/swGlassGL.h   C:/Dev-Cpp/include/gl/gl.h C:/Dev-Cpp/include/gl/glu.h   ../../ProjectFiles/../Resources/../swGlass1.09/swBuffer.h   C:/Dev-Cpp/include/conio.h C:/Dev-Cpp/include/math.h   ../../ProjectFiles/../Resources/swLine.h   ../../ProjectFiles/../Resources/swTextOut.h   ../../ProjectFiles/../Resources/swTexture.h   ../../ProjectFiles/../Resources/swTGA.h   ../../ProjectFiles/../Resources/../Resources/swResources.h   ../../ProjectFiles/../Resources/../ProjectFiles/swBall.h   ../../ProjectFiles/../Resources/../ProjectFiles/../Resources/swResources.h   ../../ProjectFiles/../Resources/../ProjectFiles/swNode.h   ../../ProjectFiles/../Resources/../ProjectFiles/swBall.h   ../../ProjectFiles/../Resources/../ProjectFiles/swNodeManager.h   ../../ProjectFiles/../Resources/../ProjectFiles/../Resources/swLine.h   ../../ProjectFiles/../Resources/../ProjectFiles/swNode.h   ../../ProjectFiles/../Resources/swFunctors.h   ../../ProjectFiles/../Resources/swResources.h   ../../ProjectFiles/../Resources/swButtonManager.h   ../../ProjectFiles/../Resources/swButton.h   ../../ProjectFiles/../ProjectFiles/swSNetStartContainer.h   C:/Dev-Cpp/include/c++/3.4.2/fstream
+	$(CPP) -c ../../ProjectFiles/SocNet.cpp -o ../../ProjectFiles/SocNet.o $(CXXFLAGS)

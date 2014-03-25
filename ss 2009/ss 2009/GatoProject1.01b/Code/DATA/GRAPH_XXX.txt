@@ -1,0 +1,20 @@
+0   0   1   2   3   4   5 
+
+0   0   7   0   0   22  33
+
+1   7   0   15  55  34  35
+
+2   0   15  0   50  0   0  
+
+3   0   55  50  0   0   0   
+
+4   22  34  0   0   0   0
+
+5   33  35  0   0   0   0
+
+{Node ¹ 0 Name: ElviS  Memory: 10 Activity: 80 RED = -1 GREEN = -1 BLUE = -1}
+{Node ¹ 1 Name: VERKA  Memory: 0  Activity: 60 RED = -1 GREEN = -1 BLUE = -1}
+{Node ¹ 2 Name: KUNIN  Memory: 60 Activity: 80 RED =  1 GREEN =  1 BLUE =  1}
+{Node ¹ 3 Name: SeRkin Memory: 61 Activity: 70 RED =  1 GREEN =  0 BLUE =  0}
+{Node ¹ 4 Name: GAREG  Memory: 62 Activity: 90 RED = -1 GREEN = -1 BLUE = -1}
+{Node ¹ 5 Name: Titov  Memory: 63 Activity: 60 RED =  0 GREEN =  0 BLUE =  1}

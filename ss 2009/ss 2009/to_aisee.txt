@@ -1,0 +1,468 @@
+graph: { title: "sosial net"
+
+colorentry  7: 110 110 110
+colorentry 43: 102 153 204
+colorentry  9: 190  60  60
+colorentry 10:   0 180   0
+colorentry 11: 150 170  50
+colorentry 12: 214 113 197
+colorentry 13:  71 146 156
+colorentry 21: 130 230 245
+colorentry 22: 200  70 200
+colorentry 27: 180 220  80
+colorentry 28: 255 192 180
+colorentry 42: 198 232 255
+colorentry 33: 180 255 180
+colorentry 34: 247 165 221
+colorentry 35: 210 210 210
+colorentry 38: 255 231 127
+colorentry 39: 160 160 160
+colorentry 40: 240 195 105
+colorentry 41: 170 121  29
+colorentry 32:  80 100 170
+colorentry  8:  10  10 100
+colorentry 43:  10 128  10
+
+node.fontname:"helvR12"
+node.borderwidth:0
+node.shape:ellipse
+equalydist:yes
+nearedges:no
+xspace:80
+yspace:120
+portsharing:yes
+splines:yes
+layout_downfactor:8
+xlspace:150
+node.width:140
+node.height:60
+edge.color: 35 
+
+node: { title:"1"  label:"Акшинцев Артем" }
+node: { title:"2"  label:"Аликс" }
+node: { title:"3"  label:"Алоян Георгий" }
+node: { title:"4"  label:"Армяков Иван" }
+node: { title:"5"  label:"Асланов" }
+node: { title:"6"  label:"Аст Натали" }
+node: { title:"7"  label:"Ренька" }
+node: { title:"8"  label:"Бурлаков" }
+node: { title:"9"  label:"Вахник Екатерина" }
+node: { title:"10"  label:"Верещагина Анастасия" }
+node: { title:"11"  label:"Вершинин Влад" }
+node: { title:"12"  label:"Винявский Александр" }
+node: { title:"13"  label:"Воробьева" }
+node: { title:"14"  label:"Втулов Григорий" }
+node: { title:"15"  label:"ГА" }
+node: { title:"16"  label:"Гельфер" }
+node: { title:"17"  label:"Головлева" }
+node: { title:"18"  label:"Горьковенко Егор" }
+node: { title:"19"  label:"Денисов" }
+node: { title:"20"  label:"Дербенев Александр" }
+node: { title:"21"  label:"Дивнигорцева Ольга" }
+node: { title:"22"  label:"Егорешов" }
+node: { title:"23"  label:"Ефремов Вова" }
+node: { title:"24"  label:"Заздравский" }
+node: { title:"25"  label:"Иванов Николай" }
+node: { title:"26"  label:"Ивашкин" }
+node: { title:"27"  label:"Ивашкина" }
+node: { title:"28"  label:"Корчагина Анастасия" }
+node: { title:"29"  label:"Крылова Рита" }
+node: { title:"30"  label:"Кузя" }
+node: { title:"31"  label:"Кунин Валентин" }
+node: { title:"32"  label:"Леках И.В." }
+node: { title:"33"  label:"Литвинова Анна" }
+node: { title:"34"  label:"Маковский Алексей" }
+node: { title:"35"  label:"Мальцев" }
+node: { title:"36"  label:"Маслякова Ирина" }
+node: { title:"37"  label:"Мишакина" }
+node: { title:"38"  label:"Мозговой Костя" }
+node: { title:"39"  label:"Мосягин Гарик" }
+node: { title:"40"  label:"Назаров Сеня" }
+node: { title:"41"  label:"Нам Людмила" }
+node: { title:"42"  label:"Ничволодов Рома" }
+node: { title:"43"  label:"Норина Даша" }
+node: { title:"44"  label:"Охрименко Мария" }
+node: { title:"45"  label:"Палюлин" }
+node: { title:"46"  label:"Пилов" }
+node: { title:"47"  label:"Полякова Вера" }
+node: { title:"48"  label:"Приходько Иван" }
+node: { title:"49"  label:"Пятакова Зоя" }
+node: { title:"50"  label:"Ракинцев Влад" }
+node: { title:"51"  label:"Рахманов Петр" }
+node: { title:"52"  label:"Резвых Саша" }
+node: { title:"53"  label:"Ромашка" }
+node: { title:"54"  label:"Семак" }
+node: { title:"55"  label:"Серкин Алесь" }
+node: { title:"56"  label:"Серкина Анна" }
+node: { title:"57"  label:"Смышляева" }
+node: { title:"58"  label:"Соколова Анастасия" }
+node: { title:"59"  label:"Софьина" }
+node: { title:"60"  label:"Сюткина Тая" }
+node: { title:"61"  label:"Сякаев Виталик" }
+node: { title:"62"  label:"Сякаева Елена" }
+node: { title:"63"  label:"Тарасевич Гриша" }
+node: { title:"64"  label:"Тельпух" }
+node: { title:"65"  label:"Тер-габриелян" }
+node: { title:"66"  label:"Ульянов Сергей" }
+node: { title:"67"  label:"Фарходов Юлиан" }
+node: { title:"68"  label:"Фастовец Андрей" }
+node: { title:"69"  label:"Федотова" }
+node: { title:"70"  label:"Фейгина Вера" }
+node: { title:"71"  label:"Фролова" }
+node: { title:"72"  label:"Хармандский Леха" }
+node: { title:"73"  label:"Хлабощина Вика" }
+node: { title:"74"  label:"Цветков Егор" }
+node: { title:"75"  label:"Шепель Ростислав" }
+node: { title:"76"  label:"Шухман Лев" }
+node: { title:"77"  label:"Эльф" }
+node: { title:"78"  label:"Залевская Ольга" }
+node: { title:"79"  label:"Багров Дима" }
+node: { title:"80"  label:"Цербаев" }
+node: { title:"81"  label:"Романов" }
+node: { title:"82"  label:"Лакейхин" }
+node: { title:"83"  label:"Варшавер" }
+node: { title:"84"  label:"Шалимова" }
+node: { title:"85"  label:"Фтулов" }
+node: { title:"86"  label:"Атик" }
+node: { title:"87"  label:"Садекова" }
+node: { title:"88"  label:"Абдулина Катя" }
+node: { title:"89"  label:"Мокроусова" }
+node: { title:"90"  label:"Моршина" }
+node: { title:"91"  label:"Скворцова" }
+node: { title:"92"  label:"Пятаков" }
+node: { title:"93"  label:"Гафарова" }
+node: { title:"94"  label:"Лапатина" }
+node: { title:"95"  label:"Щуцкая" }
+node: { title:"96"  label:"Щербаков" }
+node: { title:"97"  label:"Гупай" }
+node: { title:"98"  label:"Шалимова" }
+node: { title:"99"  label:"Ошкина" }
+node: { title:"100"  label:"Шагапова" }
+node: { title:"101"  label:"Шилов" }
+node: { title:"102"  label:"Копылова" }
+
+
+edge: { source:"1" target:"90" }
+edge: { source:"2" target:"6" }
+edge: { source:"2" target:"7" }
+edge: { source:"2" target:"10" }
+edge: { source:"2" target:"16" }
+edge: { source:"2" target:"50" }
+edge: { source:"2" target:"55" }
+edge: { source:"2" target:"58" }
+edge: { source:"2" target:"62" }
+edge: { source:"2" target:"63" }
+edge: { source:"2" target:"77" }
+edge: { source:"2" target:"90" }
+edge: { source:"3" target:"1" }
+edge: { source:"3" target:"2" }
+edge: { source:"3" target:"6" }
+edge: { source:"3" target:"9" }
+edge: { source:"3" target:"11" }
+edge: { source:"3" target:"12" }
+edge: { source:"3" target:"20" }
+edge: { source:"3" target:"21" }
+edge: { source:"3" target:"28" }
+edge: { source:"3" target:"29" }
+edge: { source:"3" target:"30" }
+edge: { source:"3" target:"31" }
+edge: { source:"3" target:"32" }
+edge: { source:"3" target:"34" }
+edge: { source:"3" target:"36" }
+edge: { source:"3" target:"39" }
+edge: { source:"3" target:"41" }
+edge: { source:"3" target:"49" }
+edge: { source:"3" target:"50" }
+edge: { source:"3" target:"52" }
+edge: { source:"3" target:"55" }
+edge: { source:"3" target:"63" }
+edge: { source:"3" target:"65" }
+edge: { source:"3" target:"70" }
+edge: { source:"3" target:"73" }
+edge: { source:"3" target:"74" }
+edge: { source:"3" target:"75" }
+edge: { source:"3" target:"77" }
+edge: { source:"3" target:"90" }
+edge: { source:"4" target:"8" }
+edge: { source:"4" target:"25" }
+edge: { source:"4" target:"37" }
+edge: { source:"4" target:"38" }
+edge: { source:"4" target:"52" }
+edge: { source:"4" target:"57" }
+edge: { source:"4" target:"67" }
+edge: { source:"4" target:"75" }
+edge: { source:"4" target:"84" }
+edge: { source:"8" target:"90" }
+edge: { source:"9" target:"23" }
+edge: { source:"9" target:"36" }
+edge: { source:"9" target:"41" }
+edge: { source:"9" target:"47" }
+edge: { source:"9" target:"64" }
+edge: { source:"9" target:"65" }
+edge: { source:"9" target:"66" }
+edge: { source:"9" target:"70" }
+edge: { source:"11" target:"3" }
+edge: { source:"11" target:"6" }
+edge: { source:"11" target:"20" }
+edge: { source:"11" target:"30" }
+edge: { source:"11" target:"31" }
+edge: { source:"11" target:"33" }
+edge: { source:"11" target:"36" }
+edge: { source:"11" target:"39" }
+edge: { source:"11" target:"40" }
+edge: { source:"11" target:"41" }
+edge: { source:"11" target:"48" }
+edge: { source:"11" target:"49" }
+edge: { source:"11" target:"52" }
+edge: { source:"11" target:"53" }
+edge: { source:"11" target:"55" }
+edge: { source:"11" target:"58" }
+edge: { source:"11" target:"60" }
+edge: { source:"11" target:"61" }
+edge: { source:"11" target:"65" }
+edge: { source:"11" target:"66" }
+edge: { source:"11" target:"70" }
+edge: { source:"11" target:"74" }
+edge: { source:"11" target:"78" }
+edge: { source:"13" target:"9" }
+edge: { source:"13" target:"10" }
+edge: { source:"13" target:"14" }
+edge: { source:"13" target:"17" }
+edge: { source:"13" target:"29" }
+edge: { source:"13" target:"44" }
+edge: { source:"13" target:"47" }
+edge: { source:"13" target:"53" }
+edge: { source:"13" target:"57" }
+edge: { source:"13" target:"72" }
+edge: { source:"14" target:"13" }
+edge: { source:"14" target:"18" }
+edge: { source:"14" target:"42" }
+edge: { source:"14" target:"57" }
+edge: { source:"14" target:"68" }
+edge: { source:"14" target:"72" }
+edge: { source:"14" target:"86" }
+edge: { source:"17" target:"90" }
+edge: { source:"18" target:"3" }
+edge: { source:"18" target:"35" }
+edge: { source:"18" target:"57" }
+edge: { source:"19" target:"9" }
+edge: { source:"19" target:"59" }
+edge: { source:"19" target:"63" }
+edge: { source:"19" target:"71" }
+edge: { source:"19" target:"86" }
+edge: { source:"23" target:"90" }
+edge: { source:"24" target:"26" }
+edge: { source:"24" target:"27" }
+edge: { source:"24" target:"54" }
+edge: { source:"24" target:"71" }
+edge: { source:"24" target:"85" }
+edge: { source:"24" target:"86" }
+edge: { source:"25" target:"4" }
+edge: { source:"25" target:"75" }
+edge: { source:"29" target:"10" }
+edge: { source:"29" target:"13" }
+edge: { source:"29" target:"17" }
+edge: { source:"29" target:"21" }
+edge: { source:"29" target:"28" }
+edge: { source:"29" target:"36" }
+edge: { source:"29" target:"37" }
+edge: { source:"29" target:"44" }
+edge: { source:"29" target:"46" }
+edge: { source:"29" target:"50" }
+edge: { source:"29" target:"51" }
+edge: { source:"29" target:"63" }
+edge: { source:"29" target:"68" }
+edge: { source:"29" target:"70" }
+edge: { source:"29" target:"76" }
+edge: { source:"29" target:"89" }
+edge: { source:"35" target:"14" }
+edge: { source:"36" target:"90" }
+edge: { source:"37" target:"8" }
+edge: { source:"37" target:"13" }
+edge: { source:"37" target:"17" }
+edge: { source:"37" target:"25" }
+edge: { source:"37" target:"26" }
+edge: { source:"37" target:"28" }
+edge: { source:"37" target:"35" }
+edge: { source:"37" target:"42" }
+edge: { source:"37" target:"44" }
+edge: { source:"37" target:"47" }
+edge: { source:"37" target:"52" }
+edge: { source:"37" target:"53" }
+edge: { source:"37" target:"57" }
+edge: { source:"37" target:"68" }
+edge: { source:"37" target:"72" }
+edge: { source:"38" target:"1" }
+edge: { source:"38" target:"13" }
+edge: { source:"38" target:"17" }
+edge: { source:"38" target:"26" }
+edge: { source:"38" target:"33" }
+edge: { source:"38" target:"34" }
+edge: { source:"38" target:"44" }
+edge: { source:"38" target:"72" }
+edge: { source:"39" target:"90" }
+edge: { source:"40" target:"3" }
+edge: { source:"40" target:"11" }
+edge: { source:"40" target:"23" }
+edge: { source:"40" target:"41" }
+edge: { source:"40" target:"42" }
+edge: { source:"40" target:"48" }
+edge: { source:"40" target:"52" }
+edge: { source:"40" target:"66" }
+edge: { source:"40" target:"72" }
+edge: { source:"44" target:"90" }
+edge: { source:"45" target:"2" }
+edge: { source:"45" target:"3" }
+edge: { source:"45" target:"16" }
+edge: { source:"45" target:"36" }
+edge: { source:"45" target:"49" }
+edge: { source:"45" target:"55" }
+edge: { source:"45" target:"77" }
+edge: { source:"45" target:"79" }
+edge: { source:"46" target:"21" }
+edge: { source:"46" target:"28" }
+edge: { source:"46" target:"29" }
+edge: { source:"46" target:"34" }
+edge: { source:"46" target:"54" }
+edge: { source:"46" target:"55" }
+edge: { source:"46" target:"63" }
+edge: { source:"46" target:"76" }
+edge: { source:"46" target:"78" }
+edge: { source:"46" target:"88" }
+edge: { source:"46" target:"89" }
+edge: { source:"49" target:"1" }
+edge: { source:"49" target:"3" }
+edge: { source:"49" target:"9" }
+edge: { source:"49" target:"11" }
+edge: { source:"49" target:"12" }
+edge: { source:"49" target:"20" }
+edge: { source:"49" target:"21" }
+edge: { source:"49" target:"23" }
+edge: { source:"49" target:"29" }
+edge: { source:"49" target:"34" }
+edge: { source:"49" target:"36" }
+edge: { source:"49" target:"39" }
+edge: { source:"49" target:"40" }
+edge: { source:"49" target:"41" }
+edge: { source:"49" target:"42" }
+edge: { source:"49" target:"47" }
+edge: { source:"49" target:"48" }
+edge: { source:"49" target:"55" }
+edge: { source:"49" target:"56" }
+edge: { source:"49" target:"61" }
+edge: { source:"49" target:"62" }
+edge: { source:"49" target:"63" }
+edge: { source:"49" target:"64" }
+edge: { source:"49" target:"65" }
+edge: { source:"49" target:"72" }
+edge: { source:"49" target:"73" }
+edge: { source:"49" target:"74" }
+edge: { source:"49" target:"76" }
+edge: { source:"49" target:"78" }
+edge: { source:"49" target:"79" }
+edge: { source:"49" target:"82" }
+edge: { source:"49" target:"90" }
+edge: { source:"49" target:"92" }
+edge: { source:"54" target:"90" }
+edge: { source:"55" target:"90" }
+edge: { source:"56" target:"15" }
+edge: { source:"56" target:"21" }
+edge: { source:"56" target:"28" }
+edge: { source:"56" target:"29" }
+edge: { source:"56" target:"36" }
+edge: { source:"56" target:"55" }
+edge: { source:"56" target:"63" }
+edge: { source:"56" target:"76" }
+edge: { source:"56" target:"77" }
+edge: { source:"56" target:"78" }
+edge: { source:"56" target:"80" }
+edge: { source:"56" target:"81" }
+edge: { source:"56" target:"82" }
+edge: { source:"56" target:"83" }
+edge: { source:"63" target:"90" }
+edge: { source:"64" target:"18" }
+edge: { source:"64" target:"23" }
+edge: { source:"64" target:"39" }
+edge: { source:"64" target:"41" }
+edge: { source:"64" target:"49" }
+edge: { source:"64" target:"55" }
+edge: { source:"64" target:"65" }
+edge: { source:"64" target:"87" }
+edge: { source:"64" target:"90" }
+edge: { source:"65" target:"9" }
+edge: { source:"65" target:"36" }
+edge: { source:"65" target:"39" }
+edge: { source:"65" target:"43" }
+edge: { source:"65" target:"70" }
+edge: { source:"66" target:"1" }
+edge: { source:"66" target:"3" }
+edge: { source:"66" target:"6" }
+edge: { source:"66" target:"9" }
+edge: { source:"66" target:"10" }
+edge: { source:"66" target:"11" }
+edge: { source:"66" target:"12" }
+edge: { source:"66" target:"20" }
+edge: { source:"66" target:"23" }
+edge: { source:"66" target:"26" }
+edge: { source:"66" target:"30" }
+edge: { source:"66" target:"31" }
+edge: { source:"66" target:"33" }
+edge: { source:"66" target:"34" }
+edge: { source:"66" target:"36" }
+edge: { source:"66" target:"38" }
+edge: { source:"66" target:"39" }
+edge: { source:"66" target:"40" }
+edge: { source:"66" target:"41" }
+edge: { source:"66" target:"48" }
+edge: { source:"66" target:"49" }
+edge: { source:"66" target:"50" }
+edge: { source:"66" target:"52" }
+edge: { source:"66" target:"53" }
+edge: { source:"66" target:"58" }
+edge: { source:"66" target:"60" }
+edge: { source:"66" target:"61" }
+edge: { source:"66" target:"64" }
+edge: { source:"66" target:"65" }
+edge: { source:"66" target:"68" }
+edge: { source:"66" target:"92" }
+edge: { source:"68" target:"1" }
+edge: { source:"68" target:"5" }
+edge: { source:"68" target:"10" }
+edge: { source:"68" target:"14" }
+edge: { source:"68" target:"33" }
+edge: { source:"68" target:"38" }
+edge: { source:"68" target:"50" }
+edge: { source:"68" target:"57" }
+edge: { source:"68" target:"58" }
+edge: { source:"68" target:"60" }
+edge: { source:"68" target:"83" }
+edge: { source:"71" target:"90" }
+edge: { source:"72" target:"13" }
+edge: { source:"72" target:"17" }
+edge: { source:"72" target:"38" }
+edge: { source:"72" target:"40" }
+edge: { source:"72" target:"42" }
+edge: { source:"72" target:"44" }
+edge: { source:"72" target:"48" }
+edge: { source:"72" target:"64" }
+edge: { source:"76" target:"1" }
+edge: { source:"76" target:"15" }
+edge: { source:"76" target:"21" }
+edge: { source:"76" target:"28" }
+edge: { source:"76" target:"29" }
+edge: { source:"76" target:"49" }
+edge: { source:"76" target:"55" }
+edge: { source:"76" target:"56" }
+edge: { source:"76" target:"63" }
+edge: { source:"76" target:"78" }
+edge: { source:"76" target:"79" }
+edge: { source:"76" target:"89" }
+edge: { source:"76" target:"91" }
+edge: { source:"76" target:"92" }
+edge: { source:"76" target:"101" }
+edge: { source:"77" target:"2" }
+edge: { source:"77" target:"76" }
+edge: { source:"78" target:"90" }
+edge: { source:"90" target:"90" }
+
+};
